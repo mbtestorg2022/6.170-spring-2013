@@ -6,26 +6,285 @@ uid: c80d9ffe-2e3d-8fc6-b777-5f35b6f43220
 
 Each of the recitations is a tutorial specific to the topics listed in the following table. Lecture was not held for Week 11, and no formal recitations were held for Weeks 9–13.
 
-| WEEK # | LECTURE TOPICS | RECITATION TOPICS | KEY DATES |
-| --- | --- | --- | --- |
-| 1 | Introduction & Web Basics | Development Environment Setup & First App; Git | Project 0 due |
-| 2 | Routing & Model-View-Controller Design | Rails Basics | Project 1, Phase 1 due |
-| Dependency & REST |
-| 3 | Introduction to Data & Object Modeling | Ruby Basics | Project 1, Phase 2 due |
-| Relational Data Model |
-| 4 | Design Concepts | Sessions & Authentication |  {{< br >}}{{< br >}} Project 1, Phase 3 due {{< br >}}{{< br >}} Project 2, Phase 1 due {{< br >}}{{< br >}}  |
-| Design & Code Reviews for Project 1 |
-| 5 | Intro to JavaScript | HTML & CSS | Project 2, Phase 2 due |
-| Closures |
-| 6 | DOM | jQuery | Project 2, Phase 3 due |
-| Events & Ajax |
-| 7 | Design Review for Project 2 | Rails Security |  {{< br >}}{{< br >}} Project 2, Phase 4 due {{< br >}}{{< br >}} Project 3, Phase 1 due {{< br >}}{{< br >}}  |
-| Web Security |
-| 8 | Software Development Methods | Rails Testing | Project 3, Phase 2 due |
-| 9 | Designing Dependable Software |  — | Project 3, Phase 3 due |
-| Presenting Your Ideas |
-| 10 | Team Pitches |  — |  {{< br >}}{{< br >}} Project 3, Phase 4 due {{< br >}}{{< br >}} Project 4, Phase 1 due {{< br >}}{{< br >}}  |
-| 11 | — |  — | Project 4, Phase 2 due |
-| 12 | MVP Demos |  — | Project 4, Phase 3 due |
-| 13 | Deployment |  — | Project 4, Phase 4 due |
-| Final Demos
+{{< tableopen >}}
+{{< theadopen >}}
+{{< tropen >}}
+{{< thopen >}}
+WEEK #
+{{< thclose >}}
+{{< thopen >}}
+LECTURE TOPICS
+{{< thclose >}}
+{{< thopen >}}
+RECITATION TOPICS
+{{< thclose >}}
+{{< thopen >}}
+KEY DATES
+{{< thclose >}}
+
+{{< trclose >}}
+
+{{< theadclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+1
+{{< tdclose >}}
+{{< tdopen >}}
+Introduction & Web Basics
+{{< tdclose >}}
+{{< tdopen >}}
+Development Environment Setup & First App; Git
+{{< tdclose >}}
+{{< tdopen >}}
+Project 0 due
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+2
+{{< tdclose >}}
+{{< tdopen >}}
+Routing & Model-View-Controller Design
+{{< tdclose >}}
+{{< tdopen >}}
+Rails Basics
+{{< tdclose >}}
+{{< tdopen >}}
+Project 1, Phase 1 due
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Dependency & REST
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+3
+{{< tdclose >}}
+{{< tdopen >}}
+Introduction to Data & Object Modeling
+{{< tdclose >}}
+{{< tdopen >}}
+Ruby Basics
+{{< tdclose >}}
+{{< tdopen >}}
+Project 1, Phase 2 due
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Relational Data Model
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+4
+{{< tdclose >}}
+{{< tdopen >}}
+Design Concepts
+{{< tdclose >}}
+{{< tdopen >}}
+Sessions & Authentication
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+Project 1, Phase 3 due
+
+Project 2, Phase 1 due
+
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Design & Code Reviews for Project 1
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+5
+{{< tdclose >}}
+{{< tdopen >}}
+Intro to JavaScript
+{{< tdclose >}}
+{{< tdopen >}}
+HTML & CSS
+{{< tdclose >}}
+{{< tdopen >}}
+Project 2, Phase 2 due
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Closures
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+6
+{{< tdclose >}}
+{{< tdopen >}}
+DOM
+{{< tdclose >}}
+{{< tdopen >}}
+jQuery
+{{< tdclose >}}
+{{< tdopen >}}
+Project 2, Phase 3 due
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Events & Ajax
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+7
+{{< tdclose >}}
+{{< tdopen >}}
+Design Review for Project 2
+{{< tdclose >}}
+{{< tdopen >}}
+Rails Security
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+Project 2, Phase 4 due
+
+Project 3, Phase 1 due
+
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Web Security
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+8
+{{< tdclose >}}
+{{< tdopen >}}
+Software Development Methods
+{{< tdclose >}}
+{{< tdopen >}}
+Rails Testing
+{{< tdclose >}}
+{{< tdopen >}}
+Project 3, Phase 2 due
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+9
+{{< tdclose >}}
+{{< tdopen >}}
+Designing Dependable Software
+{{< tdclose >}}
+{{< tdopen >}}
+ —
+{{< tdclose >}}
+{{< tdopen >}}
+Project 3, Phase 3 due
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Presenting Your Ideas
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+10
+{{< tdclose >}}
+{{< tdopen >}}
+Team Pitches
+{{< tdclose >}}
+{{< tdopen >}}
+ —
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+Project 3, Phase 4 due
+
+Project 4, Phase 1 due
+
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+11
+{{< tdclose >}}
+{{< tdopen >}}
+—
+{{< tdclose >}}
+{{< tdopen >}}
+ —
+{{< tdclose >}}
+{{< tdopen >}}
+Project 4, Phase 2 due
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+12
+{{< tdclose >}}
+{{< tdopen >}}
+MVP Demos
+{{< tdclose >}}
+{{< tdopen >}}
+ —
+{{< tdclose >}}
+{{< tdopen >}}
+Project 4, Phase 3 due
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+13
+{{< tdclose >}}
+{{< tdopen >}}
+Deployment
+{{< tdclose >}}
+{{< tdopen >}}
+ —
+{{< tdclose >}}
+{{< tdopen >}}
+Project 4, Phase 4 due
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Final Demos
+{{< tdclose >}}
+
+{{< trclose >}}
+
+{{< tableclose >}}

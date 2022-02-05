@@ -42,12 +42,57 @@ For most class sessions, you will be asked to read one or more short articles in
 Collaboration and Grading
 -------------------------
 
-| ACTIVITIES | PERCENTAGES |
-| --- | --- |
-| Solo Projects | 40% |
-| Final Project | 30% |
-| Nanoquizzes + Participation | 10% |
-| Coding + Design Work | 20% 
+{{< tableopen >}}
+{{< theadopen >}}
+{{< tropen >}}
+{{< thopen >}}
+ACTIVITIES
+{{< thclose >}}
+{{< thopen >}}
+PERCENTAGES
+{{< thclose >}}
+
+{{< trclose >}}
+
+{{< theadclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Solo Projects
+{{< tdclose >}}
+{{< tdopen >}}
+40%
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Final Project
+{{< tdclose >}}
+{{< tdopen >}}
+30%
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Nanoquizzes + Participation
+{{< tdclose >}}
+{{< tdopen >}}
+10%
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Coding + Design Work
+{{< tdclose >}}
+{{< tdopen >}}
+20%
+{{< tdclose >}}
+
+{{< trclose >}}
+
+{{< tableclose >}}
 
 The measure of the acquired skills in coding and design work will be computed by selecting the best grades received for the design and code portions of the solo projects (Projects 1, 2, and 3).
 

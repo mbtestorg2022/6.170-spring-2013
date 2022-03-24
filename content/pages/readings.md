@@ -189,7 +189,7 @@ Tony Hoare is an influential British computer scientist, perhaps best known for 
 
 {{< tdclose >}}
 {{< tdopen >}}
-Hoare, C. A. R. ![This resource may not render correctly in a screen reader.](/images/inacessible.gif)["The Emperor's Old Clothes." (PDF)](https://dl.acm.org/doi/10.1145/358549.358561) _Communications of the ACM_ 24, no. 2 (1981): 75–83.
+Hoare, C. A. R. ["The Emperor's Old Clothes." (PDF)](https://dl.acm.org/doi/10.1145/358549.358561) _Communications of the ACM_ 24, no. 2 (1981): 75–83.
 {{< tdclose >}}
 
 {{< trclose >}}

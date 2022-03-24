@@ -393,7 +393,7 @@ Events & Ajax
 Design Review for Project 2
 {{< tdclose >}}
 {{< tdopen >}}
-![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[Design Review: Project 2 (PDF - 2.7MB)]({{< baseurl >}}/resources/mit6_170s13_50-p2-review)
+[Design Review: Project 2 (PDF - 2.7MB)]({{< baseurl >}}/resources/mit6_170s13_50-p2-review)
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -499,7 +499,7 @@ Presenting Your Ideas
 {{< trclose >}}
 {{< tropen >}}
 {{< tdopen >}}
-![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[FeedAGeek: Sample Pitch v1a (PDF)]({{< baseurl >}}/resources/mit6_170s13_63-takeout-1a)
+[FeedAGeek: Sample Pitch v1a (PDF)]({{< baseurl >}}/resources/mit6_170s13_63-takeout-1a)
 {{< tdclose >}}
 
 {{< trclose >}}

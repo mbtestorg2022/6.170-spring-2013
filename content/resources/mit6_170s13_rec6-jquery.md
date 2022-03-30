@@ -3,6 +3,7 @@ content_type: resource
 description: This file contains information regarding recitation 6.
 file: https://ol-ocw-studio-app-qa.s3.amazonaws.com/courses/6-170-software-studio-spring-2013/646097a072ea684f18237b44f42db548_MIT6_170S13_rec6-jQuery.pdf
 file_type: application/pdf
+parent_uid: d7a647f3-28ab-84d8-1ca5-1afd7100e87a
 resourcetype: Document
 title: 'Recitation 6: jQuery'
 uid: 646097a0-72ea-684f-1823-7b44f42db548
